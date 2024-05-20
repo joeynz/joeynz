@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to use code to solve problems
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate once I get my feet on the ground
-- 📫 Reach me by email hello+github@siege.co.nz
+- 📫 Reach me by email hello@w04h.xyz
 
 <!---
 joeynz/joeynz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
