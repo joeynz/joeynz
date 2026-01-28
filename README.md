@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @joeynz
-- 🤖 I’m the founder of Civis Robotics
-- 📫 Reach me by email hello@w04h.xyz
+- 📫 Reach me by email joey@w04h.xyz
